@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="705.7508px" height="1076.0776px" viewBox="0 0 705.7508 1076.0776" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="490.1613" y1="0" x2="23.172943" y2="662.5456" id="gradient_1">
+      <stop offset="0%" stop-color="#CBB26A" />
+      <stop offset="100%" stop-color="#BE9E44" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="483.5021" y1="1.3056343E-06" x2="8.356061E-05" y2="636.6116" id="gradient_2">
+      <stop offset="0%" stop-color="#BE9E44" />
+      <stop offset="100%" stop-color="#CBB26A" />
+    </linearGradient>
+  </defs>
+  <g id="Group" transform="translate(344.98676 -4277)">
+    <path d="M19.2028 466.856C62.409 385.608 490.161 0 490.161 0L490.161 194.409L19.2028 662.546C19.2028 662.546 -24.0034 548.104 19.2028 466.856Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <path d="M213.609 499.705L679.089 43.8085L679.089 206.727L213.609 661.253L213.609 499.705Z" id="Rectangle-2" fill="#BE9E44" fill-rule="evenodd" stroke="none" />
+    <path d="M19.203 895.362L484.683 439.466L484.683 602.384L19.203 1056.91L19.203 895.362Z" id="Rectangle-2-Copy" fill="#BE9E44" fill-rule="evenodd" stroke="none" />
+    <path d="M197.181 909.514L679.089 439.466C679.089 439.466 739.078 506.836 679.089 607.442C619.101 708.047 197.181 1076.08 197.181 1076.08L197.181 909.514Z" id="Rectangle-2-Copy-2" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
