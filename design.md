@@ -30,14 +30,15 @@ Rules of thumb:
 ## Logo
 
 The Arcusis logo is a stylised "A": a peak with a swoosh. It exists in two versions
-and three colors, as SVG (preferred) and transparent PNG.
+and three colors. Formats: SVG, PDF and EPS (vector, preferred), transparent PNG in several
+sizes, WEBP, AVIF, flattened JPG, and ICO for the symbol.
 
 ### Versions
 
 | Version | Files | When to use |
 | --- | --- | --- |
-| **Logo** (symbol + wordmark "arcusis") | `Arcusis/Logo/SVG/arcusis-logo-*.svg`, `Arcusis/Logo/PNG/arcusis-logo-*.png` | The default. Website headers, documents, presentations, print, partner pages, anywhere the name must be read |
-| **Symbol** (icon only) | `Arcusis/Logo/SVG/arcusis-symbol-*.svg`, `Arcusis/Logo/PNG/arcusis-symbol-*.png` | Small sizes and square spaces: favicons, app icons, social-media avatars, watermarks, next to the name when it is already written as text |
+| **Logo** (symbol + wordmark "arcusis") | `Arcusis/Logo/<FORMAT>/arcusis-logo-*` | The default. Website headers, documents, presentations, print, partner pages, anywhere the name must be read |
+| **Symbol** (icon only) | `Arcusis/Logo/<FORMAT>/arcusis-symbol-*` (also `ICO/` for favicons and app icons) | Small sizes and square spaces: favicons, app icons, social-media avatars, watermarks, next to the name when it is already written as text |
 
 Use the full logo whenever there is room. Use the symbol only where the full logo would
 be too small to read (narrower than about 120 px) or where the format is square.
