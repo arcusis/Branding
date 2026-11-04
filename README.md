@@ -18,20 +18,26 @@ backgrounds for Arcusis and for the communities and products we run.
 
 ### Arcusis logo files
 
+Every logo comes in two versions (full logo with the wordmark, and the symbol alone) and
+three colors (green, black, white), in every common format:
+
 ```
 Arcusis/
 ├── Logo/
-│   ├── SVG/
-│   │   ├── arcusis-logo-green.svg      # wordmark (symbol + "arcusis")
-│   │   ├── arcusis-logo-black.svg
-│   │   ├── arcusis-logo-white.svg
-│   │   ├── arcusis-symbol-green.svg    # symbol only
-│   │   ├── arcusis-symbol-black.svg
-│   │   └── arcusis-symbol-white.svg
-│   └── PNG/                            # same six files, transparent background
-├── Colors/arcusis-colors.png           # palette swatch
-└── Backgrounds/arcusis-background-4k.png
+│   ├── SVG/    arcusis-{logo,symbol}-{green,black,white}.svg   # vector, preferred
+│   ├── PDF/    same six files, vector
+│   ├── EPS/    same six files, vector (print / Adobe)
+│   ├── PNG/    transparent, several widths: logo 512–4096 px, symbol 256–2048 px
+│   ├── WEBP/   transparent, lossless, full size
+│   ├── AVIF/   transparent, full size
+│   ├── JPG/    flattened on white (green, black) or on black (white)
+│   └── ICO/    symbol as a multi-size icon (16–256 px) + favicon.ico
+├── Colors/arcusis-colors.{png,jpg,webp}          # palette swatch
+└── Backgrounds/arcusis-background-4k.{png,jpg,webp}
 ```
+
+The Gaming Israel, Iron Swords and Modiluxe logos follow the same layout: one folder per
+format under each brand's `Logo/` folder.
 
 ## Usage
 
